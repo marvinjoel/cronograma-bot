@@ -1,6 +1,6 @@
 # Bot Multiservicio para WhatsApp con Rasa
 
-Este repositorio contiene el código fuente y la documentación para un **bot multiservicio** que opera en WhatsApp, desarrollado con **Rasa**, **FastAPI**, **Twilio** (para pruebas iniciales), y la **API de WhatsApp de Meta** (en producción). El bot permite a los usuarios realizar consultas, pagos, y recargas, con registro de conversaciones en **Google Sheets** y un diseño modular para integrar servicios como **Culqi**, **Distriluz**, y **Caja Huancayo**. El proyecto sigue **principios SOLID** y patrones de diseño (Factory, Repository, Strategy) para garantizar escalabilidad y mantenibilidad.
+Este repositorio contiene el código fuente y la documentación para un **bot multiservicio** que opera en WhatsApp, desarrollado con **Rasa**, **FastAPI**, **Twilio** (para pruebas iniciales), y la **API de WhatsApp de Meta** (en producción). El bot permite a los usuarios realizar consultas, pagos, y recargas, con registro de conversaciones en **Google Sheets** y un diseño modular para integrar servicios como **Culqi**, **Distriluz**, y **Caja Huancayo**
 
 ## Cronograma del Proyecto
 
